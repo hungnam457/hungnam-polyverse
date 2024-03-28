@@ -4,7 +4,7 @@ This repository is created to enter the PIT phase 2.
 
 ## Team Members
 
-- @vinhgia3464
+- @longan4573
 
 ## Description
 
@@ -54,15 +54,15 @@ After following the steps above you should have interacted with the testnet. You
 
 Here's the data of our application:
 
-- XBallot (OP Sepolia) : 0x04A624Ff609fb217659e9262560f3AB4DF3b9097
-- XProofOfVoteNFT (Base Sepolia): 0x7c6d2cc6e079241dde67f88864f40a8dea4fdea5
-- Channel (OP Sepolia): channel-39836
-- Channel (Base Sepolia): channel-39297
+- XBallot (OP Sepolia) : 0x4454Ea5E1e8e89F0807424A68Fb61ea110DcC951
+- XProofOfVoteNFT (Base Sepolia): 0xe95567be0632df3a089938c817606d265fc0afcd
+- Channel (OP Sepolia): channel-39842
+- Channel (Base Sepolia): channel-39843
 
 - Proof of Testnet interaction:
-    - [SendTx](https://optimism-sepolia.blockscout.com/tx/0x44754a4f94b46573d51b6480f63921d1914cd31f174a28bc43e21df61fc73e99)
-    - [RecvTx](https://base-sepolia.blockscout.com/tx/0x86857a940c10efe39c13259017de14c62271951cd0edc1274715112c08114fc6)
-    - [Ack](https://optimism-sepolia.blockscout.com/tx/0x112a9608bde8aa6c5d696dfe6178acbe728232cb82bf1153764c212e335e54b1)
+    - [SendTx](https://optimism-sepolia.blockscout.com/tx/0x3dd7eac58e3412581c3fe20d35011ceae741fd0324315e531f6effd1dbff0ed3)
+    - [RecvTx](https://base-sepolia.blockscout.com/tx/0x3ec63fa483da3c41f178f8334cbbeabdcb897f87ceb0b5dd0e3f9658bc0cd056)
+    - [Ack](https://optimism-sepolia.blockscout.com/tx/0x3f80bf1ca76cdf883df810f2aa881b205d40e7bf7f8a2608275f31b1dc4bd617)
 
 ## Challenges Faced
 
